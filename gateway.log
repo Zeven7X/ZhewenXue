@@ -1,0 +1,28 @@
+1 1668768059 Connection to SQL server established.
+2 1668768059 A sensor node with sensor id 129 has opened a new connection 
+3 1668768060 New table SensorData created.
+4 1668768079 The sensor node with 129 reports it’s too hot (running avg temperature = 20.019751)
+5 1668768084 The sensor node with 129 reports it’s too hot (running avg temperature = 20.135986)
+6 1668768089 The sensor node with 129 reports it’s too hot (running avg temperature = 20.156753)
+7 1668768094 The sensor node with 129 reports it’s too hot (running avg temperature = 20.136413)
+8 1668768099 The sensor node with 129 reports it’s too hot (running avg temperature = 20.091938)
+9 1668768104 The sensor node with 129 reports it’s too hot (running avg temperature = 20.029217)
+10 1668768154 The sensor node with 129 reports it’s too hot (running avg temperature = 20.035753)
+11 1668768159 The sensor node with 129 reports it’s too hot (running avg temperature = 20.129846)
+12 1668768164 The sensor node with 129 reports it’s too hot (running avg temperature = 20.194884)
+13 1668768169 The sensor node with 129 reports it’s too hot (running avg temperature = 20.181578)
+14 1668768174 The sensor node with 129 reports it’s too hot (running avg temperature = 20.175960)
+15 1668768179 The sensor node with 129 reports it’s too hot (running avg temperature = 20.202301)
+16 1668768184 The sensor node with 129 reports it’s too hot (running avg temperature = 20.235417)
+17 1668768189 The sensor node with 129 reports it’s too hot (running avg temperature = 20.233056)
+18 1668768194 The sensor node with 129 reports it’s too hot (running avg temperature = 20.245360)
+19 1668768199 The sensor node with 129 reports it’s too hot (running avg temperature = 20.262537)
+20 1668768211 The sensor node with 129 reports it’s too hot (running avg temperature = 20.266443)
+21 1668768211 The sensor node with 129 reports it’s too hot (running avg temperature = 20.205072)
+22 1668768214 The sensor node with 129 reports it’s too hot (running avg temperature = 20.176547)
+23 1668768219 The sensor node with 129 reports it’s too hot (running avg temperature = 20.119720)
+24 1668768224 The sensor node with 129 reports it’s too hot (running avg temperature = 20.099768)
+25 1668768229 The sensor node with 129 reports it’s too hot (running avg temperature = 20.049233)
+26 1668768231 The sensor node with 129 has closed the connection 
+27 1668768237 Connection to SQL server lost.
+28 1668768237 Unable to connect to SQL server.
